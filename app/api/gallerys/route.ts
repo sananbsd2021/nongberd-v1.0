@@ -1,4 +1,4 @@
-import { supabase } from '../../../utils/supabaseClient';
+import { supabase } from '@/utils/supabaseClient';
 import { BunRequest } from 'bun';
 
 // Gallery item type definition
